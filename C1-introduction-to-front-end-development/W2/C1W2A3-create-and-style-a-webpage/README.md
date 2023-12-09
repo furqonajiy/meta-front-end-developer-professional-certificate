@@ -16,7 +16,7 @@ In this exercise you will you will practice building your webpage using HTML and
 ## Task 1: Create the HTML file. 
 
 Objectives
-- Add  photo.jpg to the webpage.
+- Add photo.jpg to the webpage.
 - Add your name as a heading to the webpage.
 - Add an unordered list of your five favorite music artists.
 - Add an ordered list of your top five favorite films.
