@@ -24,3 +24,8 @@ h2>span {
     color: #FA9F42;
     font-size: 0.75em;
 }
+
+#copyright {
+    font-size: 0.75em;
+    padding-top: 12px;
+}
