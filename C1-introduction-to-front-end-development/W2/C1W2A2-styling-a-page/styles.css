@@ -13,3 +13,9 @@ h2 {
 .center-text {
     text-align: center;
 }
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
